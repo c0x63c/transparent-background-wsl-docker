@@ -28,7 +28,7 @@ docker exec trans-bg01 transparent-background --source /data/input --dest /data/
 
 ## Version
 
-* 2024/02/27
+* 2024/08/12
 
 ## Acknowledgments
 
